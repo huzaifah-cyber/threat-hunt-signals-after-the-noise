@@ -1,12 +1,12 @@
 <img src="assets/main.png" width="1100">
 
-# Threat Hunt Report - Signals After the Noise 2
+# Threat Hunt Report - Signals After the Noise
 
 **Case:** PHTG-INC-2025-1213 · PHTG HealthCloud // Cyber Range SOC
 **Platform:** Windows estate (azwks-phtg-01)
 **Window:** 13 December 2025, 09:00-18:00 UTC (investigation window), anchor 09:48 UTC
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=2000&pause=900&color=1E90FF&background=000000FF&center=true&vCenter=true&width=1100&height=100&lines=The+break-in+is+settled;Now+find+what+they+did+inside;Signals+After+the+Noise+2;Sentinel+online;&repeat=true" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=2000&pause=900&color=1E90FF&background=000000FF&center=true&vCenter=true&width=1100&height=100&lines=They+Broke+In;What+Havoc+did+They+Wreak?;Signals+After+the+Noise;Sentinel+online;&repeat=true" alt="Typing SVG">
 
 ---
 
